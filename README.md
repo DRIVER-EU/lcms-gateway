@@ -8,6 +8,8 @@ Collaboration between TNO and IFV to create an API to open up the Dutch National
 
 The goal of this project is to offer an OpenAPI (formerly known as Swagger) Application Programmer Interface to interact with the LCMS. The solution offered here uses TypeScript and is based on the open source framework [NESTJS](https://nestjs.com).
 
+![Preliminary OpenAPI screenshot](img/preliminary-openapi-screenshot.png)
+
 ## Use cases
 
 - Login using a username and password, get token (preferably a [JSON Web Token](https://jwt.io))
