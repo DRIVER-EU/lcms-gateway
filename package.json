@@ -1,0 +1,12 @@
+{
+	"name": "lcms-gateway-repo",
+	"private": true,
+	"scripts": {
+		"bootstrap": "lerna bootstrap",
+		"start": "lerna run --parallel start",
+		"build": "lerna run build"
+	},
+	"devDependencies": {
+		"lerna": "^3.10.8"
+	}
+}
